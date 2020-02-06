@@ -1,4 +1,4 @@
-# VerilogHDL_Note
+# VerilogHDL Notebook
 
  This repository is for learning Verilog HDL
 
@@ -12,3 +12,4 @@
 
 ### [05 结构化建模](05结构化建模.md)
 
+### [06 数字逻辑电路设计方法](06数字逻辑电路设计方法.md)
